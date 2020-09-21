@@ -5,7 +5,7 @@ It has only three things you can do
 
 * notify():
 
-that sends the notification
+Sends the notification
 * prepJob(*function*):
 
 Receives a function and put it in the schedule queue
